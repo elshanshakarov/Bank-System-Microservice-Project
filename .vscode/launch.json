@@ -1,0 +1,62 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+         {
+            "name": "Ocelot Gateway API",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-loan-document",
+            "program": "${workspaceFolder}/src/OcelotGateway/OcelotGateway.Api/bin/Debug/net8.0/OcelotGateway.Api.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/OcelotGateway/OcelotGateway.Api",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
+                "uriFormat": "%s/swagger/index.html"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        },
+        {
+            "name": "Loan Document API",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-loan-document",
+            "program": "${workspaceFolder}/src/LoanDocumentService/LoanDocumentService.Api/bin/Debug/net8.0/LoanDocumentService.Api.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/LoanDocumentService/LoanDocumentService.Api",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
+                "uriFormat": "%s/swagger/index.html"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        },
+        {
+            "name": "Customer Profile API",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-loan-document",
+            "program": "${workspaceFolder}/src/CustomerProfileService/CustomerProfileService.Api/bin/Debug/net8.0/CustomerProfileService.Api.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/CustomerProfileService/CustomerProfileService.Api",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
+                "uriFormat": "%s/swagger/index.html"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        }
+    ]
+}

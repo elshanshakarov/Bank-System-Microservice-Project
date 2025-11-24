@@ -1,0 +1,11 @@
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Domain\bin\Debug\net8.0\CustomerProfileService.Domain.deps.json
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Domain\bin\Debug\net8.0\CustomerProfileService.Domain.dll
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Domain\bin\Debug\net8.0\CustomerProfileService.Domain.pdb
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Domain\obj\Debug\net8.0\CustomerProfileService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Domain\obj\Debug\net8.0\CustomerProfileService.Domain.AssemblyInfoInputs.cache
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Domain\obj\Debug\net8.0\CustomerProfileService.Domain.AssemblyInfo.cs
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Domain\obj\Debug\net8.0\CustomerProfileService.Domain.csproj.CoreCompileInputs.cache
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Domain\obj\Debug\net8.0\CustomerProfileService.Domain.dll
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Domain\obj\Debug\net8.0\refint\CustomerProfileService.Domain.dll
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Domain\obj\Debug\net8.0\CustomerProfileService.Domain.pdb
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Domain\obj\Debug\net8.0\ref\CustomerProfileService.Domain.dll

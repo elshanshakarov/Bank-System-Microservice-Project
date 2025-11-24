@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practice\\BankSystem\\services\\CustomerProfileService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{608B4467-ADFA-43B9-98BC-A9B0B6D3C400}|CustomerProfileService.Api\\CustomerProfileService.Api.csproj|d:\\practice\\banksystem\\services\\customerprofileservice\\customerprofileservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{608B4467-ADFA-43B9-98BC-A9B0B6D3C400}|CustomerProfileService.Api\\CustomerProfileService.Api.csproj|solutionrelative:customerprofileservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608B4467-ADFA-43B9-98BC-A9B0B6D3C400}|CustomerProfileService.Api\\CustomerProfileService.Api.csproj|d:\\practice\\banksystem\\services\\customerprofileservice\\customerprofileservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{608B4467-ADFA-43B9-98BC-A9B0B6D3C400}|CustomerProfileService.Api\\CustomerProfileService.Api.csproj|solutionrelative:customerprofileservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E9BFF9-6CBC-4F6A-BA4A-969FF6EB203A}|CustomerProfileService.Infrastructure\\CustomerProfileService.Infrastructure.csproj|d:\\practice\\banksystem\\services\\customerprofileservice\\customerprofileservice.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E9BFF9-6CBC-4F6A-BA4A-969FF6EB203A}|CustomerProfileService.Infrastructure\\CustomerProfileService.Infrastructure.csproj|solutionrelative:customerprofileservice.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E9BFF9-6CBC-4F6A-BA4A-969FF6EB203A}|CustomerProfileService.Infrastructure\\CustomerProfileService.Infrastructure.csproj|d:\\practice\\banksystem\\services\\customerprofileservice\\customerprofileservice.infrastructure\\storage\\localfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E9BFF9-6CBC-4F6A-BA4A-969FF6EB203A}|CustomerProfileService.Infrastructure\\CustomerProfileService.Infrastructure.csproj|solutionrelative:customerprofileservice.infrastructure\\storage\\localfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608B4467-ADFA-43B9-98BC-A9B0B6D3C400}|CustomerProfileService.Api\\CustomerProfileService.Api.csproj|d:\\practice\\banksystem\\services\\customerprofileservice\\customerprofileservice.api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608B4467-ADFA-43B9-98BC-A9B0B6D3C400}|CustomerProfileService.Api\\CustomerProfileService.Api.csproj|solutionrelative:customerprofileservice.api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E9BFF9-6CBC-4F6A-BA4A-969FF6EB203A}|CustomerProfileService.Infrastructure\\CustomerProfileService.Infrastructure.csproj|d:\\practice\\banksystem\\services\\customerprofileservice\\customerprofileservice.infrastructure\\migrations\\20251123170550_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E9BFF9-6CBC-4F6A-BA4A-969FF6EB203A}|CustomerProfileService.Infrastructure\\CustomerProfileService.Infrastructure.csproj|solutionrelative:customerprofileservice.infrastructure\\migrations\\20251123170550_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\practice\\BankSystem\\services\\CustomerProfileService\\CustomerProfileService.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CustomerProfileService.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\practice\\BankSystem\\services\\CustomerProfileService\\CustomerProfileService.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CustomerProfileService.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T10:02:30.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\practice\\BankSystem\\services\\CustomerProfileService\\CustomerProfileService.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerProfileService.Api\\appsettings.json",
+              "ToolTip": "D:\\practice\\BankSystem\\services\\CustomerProfileService\\CustomerProfileService.Api\\appsettings.json",
+              "RelativeToolTip": "CustomerProfileService.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T07:52:08.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\practice\\BankSystem\\services\\CustomerProfileService\\CustomerProfileService.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CustomerProfileService.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\practice\\BankSystem\\services\\CustomerProfileService\\CustomerProfileService.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CustomerProfileService.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:49:21.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocalFileStorage.cs",
+              "DocumentMoniker": "D:\\practice\\BankSystem\\services\\CustomerProfileService\\CustomerProfileService.Infrastructure\\Storage\\LocalFileStorage.cs",
+              "RelativeDocumentMoniker": "CustomerProfileService.Infrastructure\\Storage\\LocalFileStorage.cs",
+              "ToolTip": "D:\\practice\\BankSystem\\services\\CustomerProfileService\\CustomerProfileService.Infrastructure\\Storage\\LocalFileStorage.cs",
+              "RelativeToolTip": "CustomerProfileService.Infrastructure\\Storage\\LocalFileStorage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T17:07:55.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "D:\\practice\\BankSystem\\services\\CustomerProfileService\\CustomerProfileService.Api\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "CustomerProfileService.Api\\Controllers\\ProfileController.cs",
+              "ToolTip": "D:\\practice\\BankSystem\\services\\CustomerProfileService\\CustomerProfileService.Api\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "CustomerProfileService.Api\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T17:07:36.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251123170550_init.cs",
+              "DocumentMoniker": "D:\\practice\\BankSystem\\services\\CustomerProfileService\\CustomerProfileService.Infrastructure\\Migrations\\20251123170550_init.cs",
+              "RelativeDocumentMoniker": "CustomerProfileService.Infrastructure\\Migrations\\20251123170550_init.cs",
+              "ToolTip": "D:\\practice\\BankSystem\\services\\CustomerProfileService\\CustomerProfileService.Infrastructure\\Migrations\\20251123170550_init.cs",
+              "RelativeToolTip": "CustomerProfileService.Infrastructure\\Migrations\\20251123170550_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T17:05:50.148Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

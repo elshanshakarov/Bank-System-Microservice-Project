@@ -1,0 +1,15 @@
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Application\bin\Debug\net8.0\CustomerProfileService.Application.deps.json
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Application\bin\Debug\net8.0\CustomerProfileService.Application.dll
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Application\bin\Debug\net8.0\CustomerProfileService.Application.pdb
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Application\bin\Debug\net8.0\CustomerProfileService.Domain.dll
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Application\bin\Debug\net8.0\CustomerProfileService.Domain.pdb
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Application\obj\Debug\net8.0\CustomerProfileService.Application.csproj.AssemblyReference.cache
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Application\obj\Debug\net8.0\CustomerProfileService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Application\obj\Debug\net8.0\CustomerProfileService.Application.AssemblyInfoInputs.cache
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Application\obj\Debug\net8.0\CustomerProfileService.Application.AssemblyInfo.cs
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Application\obj\Debug\net8.0\CustomerProfileService.Application.csproj.CoreCompileInputs.cache
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Application\obj\Debug\net8.0\Customer.C208CCAA.Up2Date
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Application\obj\Debug\net8.0\CustomerProfileService.Application.dll
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Application\obj\Debug\net8.0\refint\CustomerProfileService.Application.dll
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Application\obj\Debug\net8.0\CustomerProfileService.Application.pdb
+D:\practice\BankSystem\services\CustomerProfileService\CustomerProfileService.Application\obj\Debug\net8.0\ref\CustomerProfileService.Application.dll
