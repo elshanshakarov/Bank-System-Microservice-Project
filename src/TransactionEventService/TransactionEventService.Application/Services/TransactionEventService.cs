@@ -22,7 +22,6 @@ public class TransactionEventService : ITransactionEventService
     {
         var evt = new TransactionEvent
         {
-            EventId = Guid.NewGuid().ToString(),
             CustomerId = message.CustomerId,
             Type = message.Type,
             Amount = message.Amount,

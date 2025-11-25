@@ -14,6 +14,6 @@ public class AppDbContext : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<CustomerProfile>()
-            .HasKey(c => c.CustomerId); // Id sahəsini primary key kimi təyin edir
+            .HasKey(c => c.CustomerId); 
     }
 }
