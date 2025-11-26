@@ -535,3 +535,4 @@ D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Api\obj\Debug
 D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Api\obj\Debug\net8.0\LoanDocumentService.Api.pdb
 D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Api\obj\Debug\net8.0\LoanDocumentService.Api.genruntimeconfig.cache
 D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Api\obj\Debug\net8.0\ref\LoanDocumentService.Api.dll
+D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Api\obj\Debug\net8.0\LoanDocumentService.Api.sourcelink.json

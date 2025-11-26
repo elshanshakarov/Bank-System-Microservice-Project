@@ -57,6 +57,42 @@
             "env": {
                 "ASPNETCORE_ENVIRONMENT": "Development"
             }
+        },
+         {
+            "name": "Transaction Event Service",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-loan-document",
+            "program": "${workspaceFolder}/src/TransactionEventService/TransactionEventService.Api/bin/Debug/net8.0/TransactionEventService.Api.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/TransactionEventService/TransactionEventService.Api",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
+                "uriFormat": "%s/swagger/index.html"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        },
+         {
+            "name": "Notification Service",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-loan-document",
+            "program": "${workspaceFolder}/src/NotificationService/NotificationService.Api/bin/Debug/net8.0/NotificationService.Api.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/NotificationService/NotificationService.Api",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
+                "uriFormat": "%s/swagger/index.html"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
         }
     ]
 }

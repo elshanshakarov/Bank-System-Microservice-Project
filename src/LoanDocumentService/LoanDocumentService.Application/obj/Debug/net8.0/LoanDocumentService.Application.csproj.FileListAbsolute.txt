@@ -28,3 +28,4 @@ D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Application\o
 D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Application\obj\Debug\net8.0\refint\LoanDocumentService.Application.dll
 D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Application\obj\Debug\net8.0\LoanDocumentService.Application.pdb
 D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Application\obj\Debug\net8.0\ref\LoanDocumentService.Application.dll
+D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Application\obj\Debug\net8.0\LoanDocumentService.Application.sourcelink.json

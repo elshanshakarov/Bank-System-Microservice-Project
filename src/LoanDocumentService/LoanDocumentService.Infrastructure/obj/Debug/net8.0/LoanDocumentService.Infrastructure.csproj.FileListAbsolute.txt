@@ -36,3 +36,4 @@ D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Infrastructur
 D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Infrastructure\obj\Debug\net8.0\LoanDocumentService.Infrastructure.pdb
 D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Infrastructure\obj\Debug\net8.0\LoanDocumentService.Infrastructure.genruntimeconfig.cache
 D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Infrastructure\obj\Debug\net8.0\ref\LoanDocumentService.Infrastructure.dll
+D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Infrastructure\obj\Debug\net8.0\LoanDocumentService.Infrastructure.sourcelink.json

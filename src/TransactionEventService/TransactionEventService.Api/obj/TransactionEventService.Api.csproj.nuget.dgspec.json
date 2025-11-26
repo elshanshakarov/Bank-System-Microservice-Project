@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Api\\TransactionEventService.Api.csproj": {}
+    "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Api\\TransactionEventService.Api.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Api\\TransactionEventService.Api.csproj": {
+    "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Api\\TransactionEventService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Api\\TransactionEventService.Api.csproj",
+        "projectUniqueName": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Api\\TransactionEventService.Api.csproj",
         "projectName": "TransactionEventService.Api",
-        "projectPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Api\\TransactionEventService.Api.csproj",
-        "packagesPath": "C:\\Users\\elshan.shakarov\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Api\\obj\\",
+        "projectPath": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Api\\TransactionEventService.Api.csproj",
+        "packagesPath": "C:\\Users\\Elshan\\.nuget\\packages\\",
+        "outputPath": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\elshan.shakarov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,17 +28,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj": {
-                "projectPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj"
+              "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj": {
+                "projectPath": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj"
               },
-              "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj": {
-                "projectPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj"
+              "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj": {
+                "projectPath": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj"
               }
             }
           }
@@ -91,24 +94,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj": {
+    "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj",
+        "projectUniqueName": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj",
         "projectName": "TransactionEventService.Application",
-        "projectPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj",
-        "packagesPath": "C:\\Users\\elshan.shakarov\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Application\\obj\\",
+        "projectPath": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj",
+        "packagesPath": "C:\\Users\\Elshan\\.nuget\\packages\\",
+        "outputPath": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\elshan.shakarov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -117,14 +122,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Domain\\TransactionEventService.Domain.csproj": {
-                "projectPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Domain\\TransactionEventService.Domain.csproj"
+              "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Domain\\TransactionEventService.Domain.csproj": {
+                "projectPath": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Domain\\TransactionEventService.Domain.csproj"
               }
             }
           }
@@ -160,24 +166,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Domain\\TransactionEventService.Domain.csproj": {
+    "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Domain\\TransactionEventService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Domain\\TransactionEventService.Domain.csproj",
+        "projectUniqueName": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Domain\\TransactionEventService.Domain.csproj",
         "projectName": "TransactionEventService.Domain",
-        "projectPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Domain\\TransactionEventService.Domain.csproj",
-        "packagesPath": "C:\\Users\\elshan.shakarov\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Domain\\obj\\",
+        "projectPath": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Domain\\TransactionEventService.Domain.csproj",
+        "packagesPath": "C:\\Users\\Elshan\\.nuget\\packages\\",
+        "outputPath": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\elshan.shakarov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -186,6 +194,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -225,24 +234,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj": {
+    "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj",
+        "projectUniqueName": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj",
         "projectName": "TransactionEventService.Infrastructure",
-        "projectPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\elshan.shakarov\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\obj\\",
+        "projectPath": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Elshan\\.nuget\\packages\\",
+        "outputPath": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\elshan.shakarov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -251,17 +262,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj": {
-                "projectPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj"
+              "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj": {
+                "projectPath": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj"
               },
-              "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Domain\\TransactionEventService.Domain.csproj": {
-                "projectPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Domain\\TransactionEventService.Domain.csproj"
+              "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Domain\\TransactionEventService.Domain.csproj": {
+                "projectPath": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Domain\\TransactionEventService.Domain.csproj"
               }
             }
           }
@@ -335,7 +347,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

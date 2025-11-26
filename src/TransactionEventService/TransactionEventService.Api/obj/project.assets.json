@@ -90,12 +90,12 @@
         },
         "compile": {
           "lib/netcoreapp3.1/_._": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "resource": {
@@ -147,12 +147,12 @@
         },
         "compile": {
           "lib/netcoreapp3.1/_._": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "resource": {
@@ -207,12 +207,12 @@
         },
         "compile": {
           "lib/netcoreapp3.1/_._": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "resource": {
@@ -269,12 +269,12 @@
         },
         "compile": {
           "lib/netcoreapp3.1/_._": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "resource": {
@@ -347,12 +347,12 @@
         },
         "compile": {
           "ref/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtimeTargets": {
@@ -1290,12 +1290,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         }
       },
@@ -1303,12 +1303,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         }
       },
@@ -1382,12 +1382,12 @@
         },
         "compile": {
           "lib/net8.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/net8.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "frameworkReferences": [
@@ -1401,12 +1401,12 @@
         },
         "compile": {
           "lib/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         }
       },
@@ -1414,12 +1414,12 @@
         "type": "package",
         "compile": {
           "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "frameworkReferences": [
@@ -5624,23 +5624,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\elshan.shakarov\\.nuget\\packages\\": {},
+    "C:\\Users\\Elshan\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Api\\TransactionEventService.Api.csproj",
+      "projectUniqueName": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Api\\TransactionEventService.Api.csproj",
       "projectName": "TransactionEventService.Api",
-      "projectPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Api\\TransactionEventService.Api.csproj",
-      "packagesPath": "C:\\Users\\elshan.shakarov\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Api\\obj\\",
+      "projectPath": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Api\\TransactionEventService.Api.csproj",
+      "packagesPath": "C:\\Users\\Elshan\\.nuget\\packages\\",
+      "outputPath": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\elshan.shakarov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Elshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5649,17 +5652,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj": {
-              "projectPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj"
+            "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj": {
+              "projectPath": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Application\\TransactionEventService.Application.csproj"
             },
-            "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj": {
-              "projectPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj"
+            "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj": {
+              "projectPath": "D:\\practice\\BankSystem\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj"
             }
           }
         }
@@ -5714,7 +5718,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
