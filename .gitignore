@@ -1,3 +1,38 @@
-.vs/
+# Build folders
 bin/
 obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+project.lock.json
+
+# DLL və PDB-lər
+*.dll
+*.pdb
+
+# Generated files
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.cache
+*.log
+
+# Rider / ReSharper
+.idea/
+*.DotSettings.user
+
+# Windows
+Thumbs.db
+desktop.ini

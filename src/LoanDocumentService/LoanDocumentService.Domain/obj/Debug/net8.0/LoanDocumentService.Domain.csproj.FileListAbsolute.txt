@@ -23,3 +23,16 @@ D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Domain\obj\De
 D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Domain\obj\Debug\net8.0\LoanDocumentService.Domain.pdb
 D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Domain\obj\Debug\net8.0\ref\LoanDocumentService.Domain.dll
 D:\practice\BankSystem\src\LoanDocumentService\LoanDocumentService.Domain\obj\Debug\net8.0\LoanDocumentService.Domain.sourcelink.json
+D:\Learning\Practice Project\Bank-System-Microservice-Project\src\LoanDocumentService\LoanDocumentService.Domain\bin\Debug\net8.0\LoanDocumentService.Domain.deps.json
+D:\Learning\Practice Project\Bank-System-Microservice-Project\src\LoanDocumentService\LoanDocumentService.Domain\bin\Debug\net8.0\LoanDocumentService.Domain.dll
+D:\Learning\Practice Project\Bank-System-Microservice-Project\src\LoanDocumentService\LoanDocumentService.Domain\bin\Debug\net8.0\LoanDocumentService.Domain.pdb
+D:\Learning\Practice Project\Bank-System-Microservice-Project\src\LoanDocumentService\LoanDocumentService.Domain\obj\Debug\net8.0\LoanDocumentService.Domain.csproj.AssemblyReference.cache
+D:\Learning\Practice Project\Bank-System-Microservice-Project\src\LoanDocumentService\LoanDocumentService.Domain\obj\Debug\net8.0\LoanDocumentService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Practice Project\Bank-System-Microservice-Project\src\LoanDocumentService\LoanDocumentService.Domain\obj\Debug\net8.0\LoanDocumentService.Domain.AssemblyInfoInputs.cache
+D:\Learning\Practice Project\Bank-System-Microservice-Project\src\LoanDocumentService\LoanDocumentService.Domain\obj\Debug\net8.0\LoanDocumentService.Domain.AssemblyInfo.cs
+D:\Learning\Practice Project\Bank-System-Microservice-Project\src\LoanDocumentService\LoanDocumentService.Domain\obj\Debug\net8.0\LoanDocumentService.Domain.csproj.CoreCompileInputs.cache
+D:\Learning\Practice Project\Bank-System-Microservice-Project\src\LoanDocumentService\LoanDocumentService.Domain\obj\Debug\net8.0\LoanDocumentService.Domain.sourcelink.json
+D:\Learning\Practice Project\Bank-System-Microservice-Project\src\LoanDocumentService\LoanDocumentService.Domain\obj\Debug\net8.0\LoanDocumentService.Domain.dll
+D:\Learning\Practice Project\Bank-System-Microservice-Project\src\LoanDocumentService\LoanDocumentService.Domain\obj\Debug\net8.0\refint\LoanDocumentService.Domain.dll
+D:\Learning\Practice Project\Bank-System-Microservice-Project\src\LoanDocumentService\LoanDocumentService.Domain\obj\Debug\net8.0\LoanDocumentService.Domain.pdb
+D:\Learning\Practice Project\Bank-System-Microservice-Project\src\LoanDocumentService\LoanDocumentService.Domain\obj\Debug\net8.0\ref\LoanDocumentService.Domain.dll

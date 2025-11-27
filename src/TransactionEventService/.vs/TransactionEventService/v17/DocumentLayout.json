@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0F39B27-69FA-4247-91DD-7C5C94C84312}|TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj|d:\\learning\\practice project\\bank-system-microservice-project\\src\\transactioneventservice\\transactioneventservice.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0F39B27-69FA-4247-91DD-7C5C94C84312}|TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj|solutionrelative:transactioneventservice.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20BA8869-947D-4642-BC70-DDB8047D10C8}|TransactionEventService.Application\\TransactionEventService.Application.csproj|d:\\learning\\practice project\\bank-system-microservice-project\\src\\transactioneventservice\\transactioneventservice.application\\services\\transactioneventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BA8869-947D-4642-BC70-DDB8047D10C8}|TransactionEventService.Application\\TransactionEventService.Application.csproj|solutionrelative:transactioneventservice.application\\services\\transactioneventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F39B27-69FA-4247-91DD-7C5C94C84312}|TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj|d:\\learning\\practice project\\bank-system-microservice-project\\src\\transactioneventservice\\transactioneventservice.infrastructure\\migrations\\20251125134940_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0F39B27-69FA-4247-91DD-7C5C94C84312}|TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj|solutionrelative:transactioneventservice.infrastructure\\migrations\\20251125134940_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A78C84CC-40BD-4907-9B34-26F0EBD781BF}|TransactionEventService.Api\\TransactionEventService.Api.csproj|d:\\learning\\practice project\\bank-system-microservice-project\\src\\transactioneventservice\\transactioneventservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A78C84CC-40BD-4907-9B34-26F0EBD781BF}|TransactionEventService.Api\\TransactionEventService.Api.csproj|solutionrelative:transactioneventservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0F39B27-69FA-4247-91DD-7C5C94C84312}|TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj|d:\\learning\\practice project\\bank-system-microservice-project\\src\\transactioneventservice\\transactioneventservice.infrastructure\\transactioneventservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F0F39B27-69FA-4247-91DD-7C5C94C84312}|TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj|solutionrelative:transactioneventservice.infrastructure\\transactioneventservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F0F39B27-69FA-4247-91DD-7C5C94C84312}|TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj|d:\\learning\\practice project\\bank-system-microservice-project\\src\\transactioneventservice\\transactioneventservice.infrastructure\\messaging\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F39B27-69FA-4247-91DD-7C5C94C84312}|TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj|solutionrelative:transactioneventservice.infrastructure\\messaging\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F39B27-69FA-4247-91DD-7C5C94C84312}|TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj|d:\\learning\\practice project\\bank-system-microservice-project\\src\\transactioneventservice\\transactioneventservice.infrastructure\\messaging\\eventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F39B27-69FA-4247-91DD-7C5C94C84312}|TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj|solutionrelative:transactioneventservice.infrastructure\\messaging\\eventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "TransactionEventService.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "TransactionEventService.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAuAAAAAAAAAA==",
+              "Title": "TransactionEventService.cs",
+              "DocumentMoniker": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Application\\Services\\TransactionEventService.cs",
+              "RelativeDocumentMoniker": "TransactionEventService.Application\\Services\\TransactionEventService.cs",
+              "ToolTip": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Application\\Services\\TransactionEventService.cs",
+              "RelativeToolTip": "TransactionEventService.Application\\Services\\TransactionEventService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T13:49:54.772Z",
+              "WhenOpened": "2025-11-27T07:51:57.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20251125134940_initial.cs",
-              "DocumentMoniker": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\Migrations\\20251125134940_initial.cs",
-              "RelativeDocumentMoniker": "TransactionEventService.Infrastructure\\Migrations\\20251125134940_initial.cs",
-              "ToolTip": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\Migrations\\20251125134940_initial.cs",
-              "RelativeToolTip": "TransactionEventService.Infrastructure\\Migrations\\20251125134940_initial.cs",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "TransactionEventService.Api\\appsettings.json",
+              "ToolTip": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Api\\appsettings.json",
+              "RelativeToolTip": "TransactionEventService.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T07:48:50.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventPublisher.cs",
+              "DocumentMoniker": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\Messaging\\EventPublisher.cs",
+              "RelativeDocumentMoniker": "TransactionEventService.Infrastructure\\Messaging\\EventPublisher.cs",
+              "ToolTip": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\Messaging\\EventPublisher.cs",
+              "RelativeToolTip": "TransactionEventService.Infrastructure\\Messaging\\EventPublisher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T13:49:40.664Z",
+              "WhenOpened": "2025-11-27T07:46:09.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TransactionEventService.Infrastructure",
-              "DocumentMoniker": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj",
-              "ToolTip": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj*",
-              "RelativeToolTip": "TransactionEventService.Infrastructure\\TransactionEventService.Infrastructure.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-25T13:46:00.46Z",
+              "Title": "RabbitMqConsumer.cs",
+              "DocumentMoniker": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\Messaging\\RabbitMqConsumer.cs",
+              "RelativeDocumentMoniker": "TransactionEventService.Infrastructure\\Messaging\\RabbitMqConsumer.cs",
+              "ToolTip": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\TransactionEventService\\TransactionEventService.Infrastructure\\Messaging\\RabbitMqConsumer.cs",
+              "RelativeToolTip": "TransactionEventService.Infrastructure\\Messaging\\RabbitMqConsumer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA/wCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:43:57.762Z",
               "EditorCaption": ""
             }
           ]

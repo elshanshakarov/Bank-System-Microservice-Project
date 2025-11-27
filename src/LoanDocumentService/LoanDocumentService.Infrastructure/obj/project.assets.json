@@ -160,12 +160,12 @@
         },
         "compile": {
           "lib/netcoreapp3.1/_._": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "resource": {
@@ -217,12 +217,12 @@
         },
         "compile": {
           "lib/netcoreapp3.1/_._": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "resource": {
@@ -277,12 +277,12 @@
         },
         "compile": {
           "lib/netcoreapp3.1/_._": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "resource": {
@@ -339,12 +339,12 @@
         },
         "compile": {
           "lib/netcoreapp3.1/_._": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "resource": {
@@ -417,12 +417,12 @@
         },
         "compile": {
           "ref/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtimeTargets": {
@@ -945,12 +945,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -4264,26 +4264,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Elshan\\.nuget\\packages\\": {},
-    "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages": {},
+    "C:\\Users\\elshan.shakarov\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\practice\\BankSystem\\src\\LoanDocumentService\\LoanDocumentService.Infrastructure\\LoanDocumentService.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\LoanDocumentService\\LoanDocumentService.Infrastructure\\LoanDocumentService.Infrastructure.csproj",
       "projectName": "LoanDocumentService.Infrastructure",
-      "projectPath": "D:\\practice\\BankSystem\\src\\LoanDocumentService\\LoanDocumentService.Infrastructure\\LoanDocumentService.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Elshan\\.nuget\\packages\\",
-      "outputPath": "D:\\practice\\BankSystem\\src\\LoanDocumentService\\LoanDocumentService.Infrastructure\\obj\\",
+      "projectPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\LoanDocumentService\\LoanDocumentService.Infrastructure\\LoanDocumentService.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\elshan.shakarov\\.nuget\\packages\\",
+      "outputPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\LoanDocumentService\\LoanDocumentService.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Elshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
+        "C:\\Users\\elshan.shakarov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4292,18 +4289,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\practice\\BankSystem\\src\\LoanDocumentService\\LoanDocumentService.Application\\LoanDocumentService.Application.csproj": {
-              "projectPath": "D:\\practice\\BankSystem\\src\\LoanDocumentService\\LoanDocumentService.Application\\LoanDocumentService.Application.csproj"
+            "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\LoanDocumentService\\LoanDocumentService.Application\\LoanDocumentService.Application.csproj": {
+              "projectPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\LoanDocumentService\\LoanDocumentService.Application\\LoanDocumentService.Application.csproj"
             },
-            "D:\\practice\\BankSystem\\src\\LoanDocumentService\\LoanDocumentService.Domain\\LoanDocumentService.Domain.csproj": {
-              "projectPath": "D:\\practice\\BankSystem\\src\\LoanDocumentService\\LoanDocumentService.Domain\\LoanDocumentService.Domain.csproj"
+            "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\LoanDocumentService\\LoanDocumentService.Domain\\LoanDocumentService.Domain.csproj": {
+              "projectPath": "D:\\Learning\\Practice Project\\Bank-System-Microservice-Project\\src\\LoanDocumentService\\LoanDocumentService.Domain\\LoanDocumentService.Domain.csproj"
             }
           }
         }
@@ -4361,7 +4357,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -12,7 +12,7 @@ using TransactionEventService.Infrastructure.Data;
 namespace TransactionEventService.Infrastructure.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251125134940_initial")]
+    [Migration("20251126093244_initial")]
     partial class initial
     {
         /// <inheritdoc />

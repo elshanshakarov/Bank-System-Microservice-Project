@@ -9,7 +9,7 @@ using RabbitMQ.Client.Events;
 
 namespace NotificationService.Infrastructure.Messaging;
 
-public class RabbitMqConsumer: BackgroundService
+public class RabbitMqConsumer : BackgroundService
 {
     private readonly IServiceScopeFactory _scopeFactory;
     private IConnection _connection;
@@ -21,7 +21,8 @@ public class RabbitMqConsumer: BackgroundService
 
         var factory = new ConnectionFactory
         {
-            HostName = "localhost",  // Docker RabbitMQ
+            HostName = "localhost",
+            Port = 5672,
             UserName = "guest",
             Password = "guest"
         };
